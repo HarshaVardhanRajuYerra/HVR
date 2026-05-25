@@ -5,17 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhanrajuyerra" alt="harshavardhanrajuyerra" /></a> </p>
 
-- 🔭 I’m currently working on **🔭 I’m currently working on cybersecurity tools, AI-powered security research, OSINT projects, vulnerability research, and ethical hacking education platforms 🚀🔐**
+- 🔭 I’m currently working on
+- **🔭 I’m currently working on cybersecurity tools, AI-powered security research, OSINT projects, vulnerability research, and ethical hacking education platforms 🚀🔐**
 
-- 🌱 I’m currently learning **🌱 I’m currently learning advanced AI security, malware analysis, exploit development, cloud security, and next-generation cybersecurity technologies 🔐🚀**
+- 🌱 I’m currently learning **🌱
+-  I’m currently learning advanced AI security, malware analysis, exploit development, cloud security, and next-generation cybersecurity technologies 🔐🚀**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on cybersecurity research, open-source security tools, AI security projects, OSINT investigations, and ethical hacking initiatives 🔐🚀**
+- 👯 I’m looking to collaborate on
+- **👯 I’m looking to collaborate on cybersecurity research, open-source security tools, AI security projects, OSINT investigations, and ethical hacking initiatives 🔐🚀**
 
 - 🤝 I’m looking for help with **🤝 I’m looking for help with advanced AI security research, large-scale cybersecurity projects, and building innovative open-source security tools 🚀**
 
 - 💬 Ask me about **💬 Ask me about Ethical Hacking, Cybersecurity, OSINT, Bug Hunting, Kali Linux, AI Security, Web Security, and Open Source Security Tools 🔐🚀**
 
-- 📫 How to reach me **harshavardhanyerra@gmail.com**
+- 📫 How to reach me **harshavardhanyerra7@gmail.com**
 
 - ⚡ Fun fact **I break systems legally to help make the internet safer 🔐🚀**
 
