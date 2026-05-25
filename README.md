@@ -1,14 +1,15 @@
 # Hi 👋, I'm Harsha Vardhan Raju Yerra
 
-🚀 Ethical Hacker | Cybersecurity Researcher | Founder of Hidden Hackers  
+🚀 Ethical Hacker | Cybersecurity Researcher | Founder of Hidden Hackers |co-founder of Cyber Orbit 365 
 
 I’m passionate about cybersecurity, ethical hacking, OSINT, AI security, and building innovative security tools. I actively work on vulnerability research, security awareness, open-source projects, and cybersecurity education.
 
 ## 🔐 About Me
 - Founder of **Hidden Hackers**
+- co-founder of **Cyber Orbit 365**
 - Certified Ethical Hacker & Cybersecurity Educator
 - Security Researcher focused on Web Security & OSINT
-- Top 10 Finalist at IIT Madras DIR-V Symposium Hackathon
+- Top 5 Finalist at IIT Madras DIR-V Symposium Hackathon
 - Building cybersecurity, automation, and AI-powered tools
 - Passionate about teaching cybersecurity and ethical hacking
 
