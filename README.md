@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhanrajuyerra&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhanrajuyerra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhanrajuyerra" alt="harshavardhanrajuyerra" /></a> </p>
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/32145dad-2ebf-4753-a077-1cbe04796a84" />
 
 - 🔭 I’m currently working on
 - **🔭 I’m currently working on cybersecurity tools, AI-powered security research, OSINT projects, vulnerability research, and ethical hacking education platforms 🚀🔐**
